@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/homepage-preview.png" alt="continue — Home Page Preview" width="100%" />
+</p>
+
 <h1 align="center">Continue</h1>
 
 <p align="center">Pioneering open-source coding agent</p>
